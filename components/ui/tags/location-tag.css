@@ -1,0 +1,13 @@
+.tag-location {
+  min-width: 115px;
+  height: 25px;
+  padding: 0 10px;
+  background-color: #ff6060;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  font-weight: 500;
+  font-size: 14px;
+  color: white;
+}

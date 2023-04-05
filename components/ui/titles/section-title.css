@@ -1,0 +1,21 @@
+.section-title {
+  min-width: 50%;
+}
+
+.section-title h3 {
+  font-size: 36px;
+  font-weight: 500;
+  color: #ff6060;
+}
+
+.section-title p {
+  color: #ff6060;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.section-tags {
+  display: flex;
+  gap: 15px;
+  padding: 20px 0px;
+}
